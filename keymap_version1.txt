@@ -16,8 +16,8 @@
 
 // raise
 // ------------------------------------------------------------------------------------------------------------
-// | BTCLR |  BT1  |  BT2  |  BT3  |  BT4  |  BT5 |                |      |      |       |      |       |       |
-// |RGB TOG|RGB HUI|RGB SAI|RGB BRI|RGB SPI|      |                | PGUP |      |   ^   |      |       |       |
-// |OUT TOG|RGB HUD|RGB SAD|RGB BRD|RGB SPD|      |                | PGDN |   <- |   v   |  ->  |       |       |
-// |RGB EFF|EXT PWR|       |       |       |      |      |  |      | HOME |  END |       |      |       |       |
+// | BTCLR |  BT1  |  BT2  |  BT3  |  BT4  |  BT5 |                |      |      |       |      |      |      |
+// |RGB TOG|RGB HUI|RGB SAI|RGB BRI|RGB SPI|      |                | PGUP |      |   ^   |      |      |      |
+// |OUT TOG|RGB HUD|RGB SAD|RGB BRD|RGB SPD|      |                | PGDN |   <- |   v   |  ->  |      |      |
+// |RGB EFF|EXT PWR|       |       |       |      |      |  |      | HOME |  END |       |      |      |      |
 //                 | LALT  |       |       |      | LCMD |  |      |      |      |       |  RST |
