@@ -3,15 +3,15 @@
 // | TAB   |  Q  |  W  |  E   |  R   |  T   |                   |  Y   |  U    |  I    |  O   |   P   | BKSPC |
 // | CAPS  |  A  |  S  |  D   |  F   |  G   |                   |  H   |  J    |  K    |  L   |   ;   |   '   |
 // | SHIFT |  Z  |  X  |  C   |  V   |  B   |  MUTE  |  | PAUSE |  N   |  M    |  ,    |  .   |   /   | SHIFT |
-//               | LALT| LCTRL| LOWER| LCMD |  SPACE |  | SPACE | ENTER| RAISE |  GUI  | RALT |
+//               | LALT| LCTRL| LOWER| SPACE|  LCMD  |  | ENTER | SPACE| RAISE |  GUI  | RALT |
 
 // lower
 // ------------------------------------------------------------------------------------------------------------
 // |   F1  |  F2 |  F3 |  F4  |  F5  |  F6  |                   |  F7  |  F8   |  F9   |  F10 |  F11  |  F12  |
-// |   `   |   7 |   8 |   9  |  0   |  -   |                   |      |       |       |   [  |   ]   |   \   |
+// |   `   |  7  |  8  |  9   |  0   |  -   |                   |  SCE |  SCT  |       |   [  |   ]   |   \   |
 // | Enter |  4  |  5  |  6   |  =   |  .   |                   |  SCL |  SCD  |  SCF  |  SCG |  SCR  | PSCRN |
 // |       |  1  |  2  |  3   | DEL  | BKSPC|        |  |       |      |       |       |      |       | TSKMNG|
-//               |RST  |      |      |      |        |  |       |      |       |       |      |
+//               | RST |      |      |      |        |  |       |      |       |       |      |
 
 
 // raise
@@ -20,4 +20,4 @@
 // |RGB TOG|RGB HUI|RGB SAI|RGB BRI|RGB SPI|      |                | PGUP |      |   ^   |      |       |       |
 // |OUT TOG|RGB HUD|RGB SAD|RGB BRD|RGB SPD|      |                | PGDN |   <- |   v   |  ->  |       |       |
 // |RGB EFF|EXT PWR|       |       |       |      |      |  |      | HOME |  END |       |      |       |       |
-//                 |       |       |       |      |      |  |      |      |      |       |  RST |
+//                 | LALT  |       |       |      | LCMD |  |      |      |      |       |  RST |
